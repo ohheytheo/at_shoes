@@ -13,8 +13,6 @@ A resource that spawns interactive NPC shopkeepers using `qtarget` and allows pl
 - 🧍 Spawns peds at configured shop locations with animations and invincibility.  
 - 🎯 Interact with peds via `qtarget` for easy access to `ox_inventory` shops.  
 - 👟 Toggle shoes on/off with a smooth pickup animation using the `UseShoe` event.  
-- 🧼 Cleans up ped entities on logout to save performance.  
-- 🛠️ ESX-compatible with `playerLoaded` and `onPlayerLogout` events.  
 
 ---
 
